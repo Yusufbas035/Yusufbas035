@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yusufbas035
-- 👀 I’m interested in Data analyst
+- 👀 I’m interested in creating projects
 - 🌱 I’m currently learning python
 - 📫 How to reach me Yusufbas035@Gmail.com
 
